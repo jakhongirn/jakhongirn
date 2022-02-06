@@ -69,7 +69,7 @@
   
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=jaykhans&label=Profile%20views&color=0e75b6&style=flat" alt="jaykhans" /> 
-    <a href="https://github.com/MansurIsakov?tab=followers"><img src="https://img.shields.io/github/followers/MansurIsakov?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/MansurIsakov?tab=followers"><img src="https://img.shields.io/github/followers/jaykhans?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykhans" alt="jaykhans" /></a> 
