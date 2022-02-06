@@ -44,13 +44,14 @@
   
   
 
-## Daily Contribution graph 👨‍💻
+## 👨‍💻 Daily Contribution graph 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaykhans&theme=dracula&hide_border=true)
 
 ## Connect with Me <img src='/src/Handshake.gif' width=60px>
  <p align="left">  
 <a href="https://twitter.com/jakhongir_mir" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://www.instagram.com/jaykhans/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://linkedin.com/in/jakhongirnagmatov" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://t.me/jaykhans" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-<a href="https://www.instagram.com/jaykhans/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+
 </p>
