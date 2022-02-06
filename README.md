@@ -41,11 +41,17 @@
    <a href="https://ubuntu.com/"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
    <a href="https://www.microsoft.com/en-us/windows?r=1"> <img src="https://img.icons8.com/color/48/000000/windows-11.png"/> </a>
   </p>
-  
-  
+ 
+  ## 📊Stats
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykhans&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="jaykhans" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaykhans&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="jaykhans" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykhans&theme=highcontrast&hide_border=true" alt="jaykhans" />
+</p>
 
 ## 👨‍💻 Daily Contribution graph 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaykhans&theme=dracula&hide_border=true)
+
 
 ## Connect with Me <img src='/src/Handshake.gif' width=60px>
  <p align="left">  
