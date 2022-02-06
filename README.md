@@ -26,11 +26,13 @@
    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-   <a href="https://getbootstrap.com/"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-   <a href="https://tailwindcss.com/"> <img src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.5009c3dbea.svg" width=48px> </a>
+  <a href="https://getbootstrap.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+   <a href="https://tailwindcss.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <a href="https://www.postgresql.org/"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
-    <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
+   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <img src="https://img.icons8.com/fluency/48/000000/console.png"/>
    <a href="https://www.digitalocean.com/"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png"/> </a>
   <a href="https://www.heroku.com/"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
@@ -40,6 +42,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/> </a> 
    <a href="https://ubuntu.com/"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
    <a href="https://www.microsoft.com/en-us/windows?r=1"> <img src="https://img.icons8.com/color/48/000000/windows-11.png"/> </a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   </p>
  
   ## 📊Stats
