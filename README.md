@@ -64,3 +64,16 @@
 <a href="https://t.me/jaykhans" target="blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 
 </p>
+  
+  ## 🏆Views and Trophies
+  
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=jaykhans&label=Profile%20views&color=0e75b6&style=flat" alt="jaykhans" /> 
+    <a href="https://github.com/MansurIsakov?tab=followers"><img src="https://img.shields.io/github/followers/MansurIsakov?label=Followers&style=social" alt="GitHub Badge"></a>
+  </p>
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykhans" alt="jaykhans" /></a> 
+    
+  </p>
+            
+
